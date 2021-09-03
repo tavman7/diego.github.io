@@ -29,3 +29,5 @@ The atypical 'hello world' example can easily be performed on a `console` as:
 ```Diego
 with_me()_msg(Hello, World!);
 ```
+
+[nav planning](docs/obj/navigation_planning.md)
