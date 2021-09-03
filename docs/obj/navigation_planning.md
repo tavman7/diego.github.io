@@ -4,7 +4,7 @@ Navigation planning involves the declaration and execution of various components
 
 There are various objects available for navigation planning in **_Diego_**, which can conveniently be depicted in the 'route matrix'...
 
-| ![Route Matrix](_img/route_matrix.jpeg "Route Matrix") |
+| ![Route Matrix](../../_img/route_matrix.jpeg "Route Matrix") |
 | :---: |
 | *Route Matrix* |
 
